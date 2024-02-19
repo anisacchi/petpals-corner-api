@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": "food-Rtnu8DNl",
+      "name": "Adult Minichunks Chicken & Grain",
+      "brand": "IAMS",
+      "animal": "Dog",
+      "subcategory": "Dry Food",
+      "age": "Adult",
+      "description": "Give your dog the nutrition they need in the small kibble size they prefer, with real, farm-raised chicken as the first ingredient to promote strong muscles with premium-sourced protein. This tasty kibble supports healthy digestion with a wholesome blend of fibers and prebiotics, plus antioxidants to support a strong immune system. IAMS Dog Food is made with high quality animal protein and no artificial preservatives, flavors or fillers, for complete and balanced nutrition. We carry a full line of foods for your dog's age, size and dietary needs from puppy to adult to mature, small breeds to large, and with recipes to support healthy weight and digestion. Choose the nutrition that brings out your dog's best, tailored for their unique needs; Our high-quality, premium recipes are made in the USA with the finest ingredients from around the world",
+      "ingredients": "Chicken, Ground Whole Grain Corn, Ground Whole Grain Sorghum, Chicken By-Product Meal, Dried Plain Beet Pulp, Natural Flavor, Flaxseed, Dried Egg Product, Chicken Fat (Preserved with Mixed Tocopherols), Caramel Color, Vitamins (Vitamin E Supplement, Ascorbic Acid, Calcium Pantothenate, Biotin, Thiamine Mononitrate (source of Vitamin B1), Vitamin B12 Supplement, Vitamin A Supplement, Niacin, Riboflavin Supplement (source of Vitamin B2), Pyridoxine Hydrochloride (source of Vitamin B6), Vitamin D3 Supplement, Folic Acid), Minerals (Ferrous Sulfate, Zinc Oxide, Sodium Selenite, Manganese Sulfate, Manganous Oxide, Potassium Iodide), Potassium Chloride, Carrot, Choline Chloride, Fructooligosaccharides, Calcium Carbonate, Mixed Tocopherols (Preservative), Rosemary Extract",
+      "spesific_uses": "Immune Support, Weight Management, Digestive Health, Nutrition, Muscle",
+      "rating": {
+        "value": 4.8,
+        "reviews": 25290
+      },
+      "label": "",
+      "images": [],
+      "variants": [
+        {
+          "flavor": "Chicken & Grain",
+          "size": "7 lbs",
+          "price": 17.98,
+          "discount": 0,
+          "images": [""]
+        },
+        {
+          "flavor": "Chicken & Grain",
+          "size": "15 lbs",
+          "price": 29.98,
+          "discount": 0,
+          "images": [""]
+        },
+        {
+          "flavor": "Chicken & Grain",
+          "size": "30 lbs",
+          "price": 46.98,
+          "discount": 0,
+          "images": [""]
+        }
+      ]
+    }
+  ]
+}
