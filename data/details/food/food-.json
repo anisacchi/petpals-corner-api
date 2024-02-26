@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "name": "",
+      "brand": "",
+      "animal": "",
+      "subcategory": "",
+      "age": "",
+      "description": "",
+      "spesific_uses": "",
+      "rating": {
+        "value": 0,
+        "reviews": 0
+      },
+      "variants": [
+        {
+          "id": "",
+          "flavor": "",
+          "type": "",
+          "size": 0,
+          "ingredients": "",
+          "price": 0,
+          "discount": 0,
+          "stock": "",
+          "images": ["https://anisacchi.github.io/petpals-corner-api/images/foods/"]
+        }
+      ]
+    }
+  ]
+}

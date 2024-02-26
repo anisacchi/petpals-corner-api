@@ -1,0 +1,115 @@
+{
+  "data": [
+    {
+      "name": "Classic Loaf in Sauce",
+      "brand": "Cesar",
+      "animal": "Dog",
+      "subcategory": "Wet Food",
+      "age": "Adult",
+      "description": "With real meat as the ingredient, Classic Loaf in Sauce complements any dry food or stands alone as a tasty meal. Made in the USA with the finest ingredients from around the world. Contains no fillers, no artificial flavors, and is formulated without grains (Trace amounts may be present due to cross-contact during manufacturing). CESAR Classic Loafs gourmet soft dog food is served in convenient trays with easy, peel away seals. This single serve, complete and balanced meal for adult dogs makes every mealtime delicious",
+      "spesific_uses": "Active, Diet Low Calorie",
+      "rating": {
+        "value": 4.7,
+        "reviews": 11724
+      },
+      "variants": [
+        {
+          "id": "food-rtnu8dnl-1",
+          "flavor": "Beef",
+          "type": null,
+          "size": "3.5 Ounce",
+          "ingredients": "Sufficient Water For Processing, Beef By-Products, Liver, Meat By-Products, Beef, Chicken, Chicken By-Products, Calcium Carbonate, Sodium Trupolyphosphate, Added Color, Carrageenan, Potassium Chloride, Xanthan Gum, Magnesium Proteinate, Dried Yam, Natural Flavor, Salt, Erytmorbic Acid, Guar Gum, Zinc Sulfate, D-Calcium Pantothenate, Thiamine Mononitrate (Vitamin B1), Vitamin A Supplement, Vitamin D3 Supplement.",
+          "price": 1.48,
+          "discount": 0,
+          "stock": "stockin",
+          "images": [
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-1.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-2.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-3.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-4.webp"
+					]
+        },
+				{
+          "id": "food-rtnu8dnl-2",
+          "flavor": "Grilled Chicken",
+          "type": null,
+          "size": "3.5 Ounce",
+          "ingredients": "Sufficient Water For Processing, Beef By-Products, Liver, Meat By-Products, Chicken By-Products, Calcium Carbonate, Sodium Tripolyphosphate, Carrageenan, Added Color, Potassium Chloride, Xanthan Gum, Magnesium Proteinate, Dried Yam, Natural Flavor, Salt, Erythorbic Acid, Grilled Chicken Flavor, Guar Gum, Zinc Sulfate, Vitamin E Supplement, Monocalcium Phosphate, Copper Sulfate, Sodium Nitrite ( For Color Retention), D-Calcium Pantothenate, Thiamine Mononitrate (Vitamin B1), Vitamin A Supplement, Vitamin D3 Supplement.",
+          "price": 1.34,
+          "discount": 0,
+          "stock": "stockout",
+          "images": [
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-5.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-6.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-7.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-8.webp"
+					]
+        },
+				{
+          "id": "food-rtnu8dnl-3",
+          "flavor": "Turkey",
+          "type": null,
+          "size": "3.5 Ounce",
+          "ingredients": "Sufficient Water For Processing, Beef By-Products, Liver, Meat By-Products, Turkey, Chicken, Chicken By-Products, Calcium Carbonate, Sodium Tripolyphosphate, Carrageenan, Potassium Chloride, Xanthan Gum, Magnesium Proteinate, Added Color, Dried Yam, Natural Flavor, Salt, Erythorbic Acid, Guar Gum, Zinc Sulfate, Vitamin E Supplement, Monocalcium Phosphate, Yellow #6, Copper Sufate, Yellow #5, D-Calcium Pantothenate, Thiamine Mononitrate (Vitamin B1), Vitamin A Supplement, Vitamin D3 Supplement.",
+          "price": 1.34,
+          "discount": 5,
+          "stock": "stockin",
+          "images": [
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-9.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-10.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-11.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-12.webp"
+					]
+        },
+				{
+          "id": "food-rtnu8dnl-4",
+          "flavor": "Lamb",
+          "type": null,
+          "size": "3.5 Ounce",
+          "ingredients": "All-Natural",
+          "price": 1.34,
+          "discount": 0,
+          "stock": "stockin",
+          "images": [
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-13.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-14.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-15.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-16.webp"
+					]
+        },
+				{
+          "id": "food-rtnu8dnl-5",
+          "flavor": "Filet Mignon",
+          "type": null,
+          "size": "3.5 Ounce",
+          "ingredients": "Beef, Chicken Liver, Beef Lung, Chicken Broth, Water, Pork By-Products, Chicken Heart, Calcium Carbonate, Added Color, Sodium Tripolyphosphate, Carrageenan, Potassium Chloride, Xanthan Gum, Magnesium Proteinate, Dried Yam, dl-Methionine, Salt, Erythorbic Acid (Preservative), Filet Mignon Flavor, Guar Gum, Natural Flavor, Zinc Sulfate, Vitamin E Supplement, Monocalcium Phosphate, Sodium Nitrite (For Color Retention), Copper Sulfate, Thiamine Mononitrate (Vitamin B1), d-Calcium Pantothenate, Vitamin D3 Supplement, Potassium Iodide.",
+          "price": 1.34,
+          "discount": 0,
+          "stock": "stockin",
+          "images": [
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-17.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-18.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-19.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-20.webp"
+					]
+        },
+				{
+          "id": "food-rtnu8dnl-6",
+          "flavor": "Duck",
+          "type": null,
+          "size": "3.5 Ounce",
+          "ingredients": "Duck, Chicken Liver, Beef Lung, Chicken Broth, Water, Pork By-Products, Chicken Heart, Calcium Carbonate, Sodium Tripolyphosphate, Carrageenan, Potassium Chloride, Xanthan Gum, Magnesium Proteinate, Dried Yam, Added Color, dl-Methionine, Salt, Erythorbic Acid (Preservative), Natural Flavor, Guar Gum, Zinc Sulfate, Vitamin E Supplement, Monocalcium Phosphate, Sodium Nitrite (For Color Retention), Copper Sulfate, Thiamine Mononitrate (Vitamin B1), d- Calcium Pantothenate, Vitamin D3 Supplement, Potassium Iodide.",
+          "price": 1.28,
+          "discount": 0,
+          "stock": "stockout",
+          "images": [
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-21.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-22.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-23.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-24.webp"
+					]
+        }
+      ]
+    }
+  ]
+}

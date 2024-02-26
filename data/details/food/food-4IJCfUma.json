@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "name": "Adult Home Delights",
+      "brand": "Cesar",
+      "animal": "Dog",
+      "subcategory": "Wet Food",
+      "age": "Adult",
+      "description": "A complete and balanced gourmet meal or complement your dog will love. Made in the USA with the finest ingredients from around the world. No fillers or artificial flavors for a taste and variety your best friend can't resist. This gourmet dog food is served in convenient trays with easy, peel-away seals",
+      "spesific_uses": "Diet Low Calorie, Nutrition",
+      "rating": {
+        "value": 4.6,
+        "reviews": 4679
+      },
+      "variants": [
+        {
+          "id": "food-4IJCfUma-1",
+          "flavor": "Beef Stew",
+          "type": null,
+          "size": "3.5 Ounce",
+          "ingredients": "Beef, Chicken Broth, Water, Chicken, Potato, Chicken Liver, Carrots, Peas, Animal Plasma, Corn Starch, Chicken Heart, Wheat Gluten, Dried Plain Beet Pulp, Dried Egg Product, Salt, Calcium Carbonate, Potassium Chloride, Choline Chloride, Sodium Tripolyphosphate, Added Color, Zinc Sulfate, Magnesium Proteinate, Xanthan Gum, dl-Methionine, Guar Gum, Manganese Sulfate, Vitamin E Supplement, Sodium Carbonate, d-Calcium Pantothenate, Biotin, Copper Sulfate, Thiamine Mononitrate (Vitamin B1), Riboflavin Supplement (Vitamin B2), Potassium Iodide, Vitamin A Supplement, Pyridoxine Hydrochloride (Vitamin B6), Vitamin B12 Supplement, Vitamin D3 Supplement.",
+          "price": 1.85,
+          "discount": 8,
+          "stock": "stockin",
+          "images": [
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-4IJCfUma/food-4IJCfUma-1.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-4IJCfUma/food-4IJCfUma-2.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-4IJCfUma/food-4IJCfUma-3.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-4IJCfUma/food-4IJCfUma-4.webp"
+					]
+        },
+				{
+          "id": "food-4IJCfUma-2",
+          "flavor": "Chicken & Vegetables",
+          "type": null,
+          "size": "3.5 Ounce",
+          "ingredients": "Chicken, Chicken Broth, Water, Chicken Liver, Potatoes, Carrots, Peas, Animal Plasma, Wheat Gluten, Corn Starch, Chicken Heart, Wheat Flour, Dried Plain Beet Pulp, Salt, Potassium Chloride, Dried Tomato, Calcium Carbonate, Sodium Tripolyphosphate, Choline Chloride, Zinc Sulfate, Magnesium Proteinate, Xanthan Gum, DL-Methionine, Guar Gum, Manganese Sulfate, Vitamin E Supplement, Sodium Carbonate, D-Calcium Pantothenate, Biotin, Copper Sulfate, Thiamine Mononitrate (Vitamin B1), Riboflavin Supplement (Vitamin B2), Sodium Nitrite (For Color Retention), Potassium Iodide, Vitamin A Supplement, Pyridoxine Hydrochloride (Vitamin B6), Vitamin B12 Supplement, Vitamin D3 Supplement.",
+          "price": 1.46,
+          "discount": 0,
+          "stock": "stockin",
+          "images": [
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-4IJCfUma/food-4IJCfUma-5.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-4IJCfUma/food-4IJCfUma-6.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-4IJCfUma/food-4IJCfUma-7.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-4IJCfUma/food-4IJCfUma-8.webp"
+					]
+        },
+				{
+          "id": "food-4IJCfUma-3",
+          "flavor": "Chicken & Noddle",
+          "type": null,
+          "size": "3.5 Ounce",
+          "ingredients": "Chicken, Chicken Broth, Water, Chicken Liver, Green Beans, Carrots, Noodle Product (Wheat, Egg White, Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Wheat Gluten, Animal Plasma, Corn Starch, Chicken Heart, Wheat Flour, Dried Plain Beet Pulp, Salt, Potassium Chloride, Dried Tomato, Calcium Carbonate, Sodium Tripolyphosphate, Choline Chloride, Zinc Sulfate, Xanthan Gum, Magnesium Proteinate, DL-Methionine, Guar Gum, Manganese Sulfate, Vitamin E Supplement, Sodium Carbonate, D-Calcium Pantothenate, Biotin, Copper Sulfate, Thiamine Mononitrate (Vitamin B1), Riboflavin Supplement (Vitamin B2), Sodium Nitrite (for Color Retention), Potassium Iodide, Vitamin A Supplement, Pyridoxine Hydrochloride (Vitamin B6), Vitamin B12 Supplement, Vitamin D3 Supplement.",
+          "price": 1.46,
+          "discount": 0,
+          "stock": "stockin",
+          "images": [
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-4IJCfUma/food-4IJCfUma-9.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-4IJCfUma/food-4IJCfUma-10.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-4IJCfUma/food-4IJCfUma-11.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-4IJCfUma/food-4IJCfUma-12.webp"
+					]
+        },
+				{
+          "id": "food-4IJCfUma-4",
+          "flavor": "Pot Roast",
+          "type": null,
+          "size": "3.5 Ounce",
+          "ingredients": "Beef, Chicken Broth, Water, Carrots, Chicken, Potato, Chicken Liver, Spinach, Animal Plasma, Corn Starch, Chicken Heart, Wheat Gluten, Dried Plain Beet Pulp, Parsley, Dried Egg Product, Salt, Calcium Carbonate, Potassium Chloride, Choline Chloride, Sodium Tripolyphosphate, Added Color, Zinc Sulfate, Magnesium Proteinate, Xanthan Gum, dl-Methionine, Guar Gum, Manganese Sulfate, Vitamin E Supplement, Sodium Carbonate, d-Calcium Pantothenate, Biotin, Copper Sulfate, Thiamine Mononitrate (Vitamin B1), Riboflavin Supplement (Vitamin B2), Potassium Iodide, Vitamin A Supplement, Pyridoxine Hydrochloride (Vitamin B6), Vitamin B12 Supplement, Vitamin D3 Supplement.",
+          "price": 1.85,
+          "discount": 8,
+          "stock": "stockin",
+          "images": [
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-4IJCfUma/food-4IJCfUma-13.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-4IJCfUma/food-4IJCfUma-14.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-4IJCfUma/food-4IJCfUma-15.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-4IJCfUma/food-4IJCfUma-16.webp"
+					]
+        },
+				{
+          "id": "food-4IJCfUma-5",
+          "flavor": "Turkey, Green Beans & Potatoes",
+          "type": null,
+          "size": "3.5 Ounce",
+          "ingredients": "Turkey, Chicken Broth, Water, Green Beans, Chicken, Potatoes, Chicken Liver, Animal Plasma, Wheat Gluten, Corn Starch, Wheat Flour, Chicken Heart, Dried Plain Beet Pulp, Salt, Calcium Carbonate, Potassium Chloride, Dried Tomato, Choline Chloride, Sodium Tripolyphosphate, Zinc Sulfate, Magnesium Proteinate, Xanthan Gum, DL-Methionine, Guar Gum, Manganese Sulfate, Vitamin E Supplement, Sodium Carbonate, D-Calcium Pantothenate, Biotin, Copper Sulfate, Thiamine Mononitrate (Vitamin B1), Riboflavin Supplement (Vitamin B2), Sodium Nitrite (For Color Retention), Potassium Iodide, Vitamin A Supplement, Pyridoxine Hydrochloride (Vitamin B6), Vitamin B12 Supplement, Vitamin D3 Supplement",
+          "price": 1.46,
+          "discount": 0,
+          "stock": "stockin",
+          "images": [
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-4IJCfUma/food-4IJCfUma-17.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-4IJCfUma/food-4IJCfUma-18.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-4IJCfUma/food-4IJCfUma-19.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/foods/food-4IJCfUma/food-4IJCfUma-20.webp"
+					]
+        }
+      ]
+    }
+  ]
+}
