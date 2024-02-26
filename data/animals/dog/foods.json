@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": "food-rtnu8dnl",
+      "name": "Adult Classic Loaf in Sauce",
+      "brand": "Cesar",
+      "animal": "Dog",
+      "subcategory": "Wet Food",
+      "rating": {
+        "value": 4.7,
+        "reviews": 11724
+      },
+      "label": "best-seller",
+      "cover": "https://anisacchi.github.io/petpals-corner-api/images/foods/food-rtnu8dnl/food-rtnu8dnl-0.webp"
+    },
+		{
+      "id": "food-4IJCfUma",
+      "name": "Adult Home Delights",
+      "brand": "Cesar",
+      "animal": "Dog",
+      "subcategory": "Wet Food",
+      "rating": {
+        "value": 4.6,
+        "reviews": 4679
+      },
+      "label": "",
+      "cover": "https://anisacchi.github.io/petpals-corner-api/images/foods/food-4IJCfUma/food-4IJCfUma-0.webp"
+    }
+  ]
+}

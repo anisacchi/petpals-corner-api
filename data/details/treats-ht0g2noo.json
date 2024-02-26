@@ -1,0 +1,115 @@
+{
+  "data": [
+    {
+      "name": "Soft & Chewy",
+      "brand": "Milk Bone",
+      "animal": "Dog",
+      "subcategory": null,
+      "age": "All Life Stages",
+      "description": "Fortified with 12 vitamins and minerals. Great for dogs of all sizes. Loved since 1908.",
+      "spesific_uses": "Treating",
+      "rating": {
+        "value": 4.7,
+        "reviews": 48229
+      },
+      "variants": [
+        {
+          "id": "treats-ht0g2noo-1",
+          "flavor": "Chicken",
+          "type": null,
+          "size": "5.6 Ounce",
+          "ingredients": "Chicken, Soy Grits, Sugar, Corn Starch, Salt, Rice Flour, Dicalcium Phosphate, Propylene Glycol, Guar Gum, Natural Smoke Flavor, Lactic Acid, Garlic Powder, Potassium Sorbate (Used As A Preservative), Vitamins (Vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, D-calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Thiamine Mononitrate, Vitamin D3 Supplement, Folic Acid, Biotin, Vitamin B12 Supplement), Minerals (Ferrous Sulfate, Zinc Oxide, Manganous Oxide, Copper Sulfate, Calcium Iodate, Sodium Selenite), Bha (Used As A Preservative).",
+          "price": 3.88,
+          "discount": 5,
+          "stock": "stockin",
+          "images": [
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-1.webp",
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-2.webp",
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-3.webp",
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-4.webp"
+          ]
+        },
+        {
+          "id": "treats-ht0g2noo-2",
+          "flavor": "Chicken",
+          "type": null,
+          "size": "25 Ounce",
+          "ingredients": "Chicken, Soy Grits, Sugar, Corn Starch, Salt, Rice Flour, Dicalcium Phosphate, Propylene Glycol, Guar Gum, Natural Smoke Flavor, Lactic Acid, Garlic Powder, Potassium Sorbate (Used As A Preservative), Vitamins (Vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, D-calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Thiamine Mononitrate, Vitamin D3 Supplement, Folic Acid, Biotin, Vitamin B12 Supplement), Minerals (Ferrous Sulfate, Zinc Oxide, Manganous Oxide, Copper Sulfate, Calcium Iodate, Sodium Selenite), Bha (Used As A Preservative).",
+          "price": 15.22,
+          "discount": 5,
+          "stock": "stockout",
+          "images": [
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-5.webp",
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-6.webp",
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-3.webp",
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-4.webp"
+          ]
+        },
+				{
+          "id": "treats-ht0g2noo-3",
+          "flavor": "Bacon",
+          "type": null,
+          "size": "5.6 Ounce",
+          "ingredients": "Chicken, Soy Grits, Sugar, Corn Starch, Bacon, Rice Flour, Salt, Dicalcium Phosphate, Propylene Glycol, Guar Gum, Natural Smoke Flavor, Garlic Powder, Lactic Acid, Potassium Sorbate (used As A Preservative), Vitamins (vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, D-calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Thiamine Mononitrate, Vitamin D3 Supplement, Folic Acid, Biotin, Vitamin B12 Supplement), Minerals (ferrous Sulfate, Zinc Oxide, Manganous Oxide, Copper Sulfate, Calcium Iodate, Sodium Selenite), Added Color, Bha (used As A Preservative).",
+          "price": 3.48,
+          "discount": 0,
+          "stock": "stockin",
+          "images": [
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-7.webp",
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-8.webp",
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-9.webp",
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-10.webp"
+          ]
+        },
+				{
+          "id": "treats-ht0g2noo-4",
+          "flavor": "Bacon",
+          "type": null,
+          "size": "25 Ounce",
+          "ingredients": "Chicken, Soy Grits, Sugar, Corn Starch, Bacon, Rice Flour, Salt, Dicalcium Phosphate, Propylene Glycol, Guar Gum, Natural Smoke Flavor, Garlic Powder, Lactic Acid, Potassium Sorbate (used As A Preservative), Vitamins (vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, D-calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Thiamine Mononitrate, Vitamin D3 Supplement, Folic Acid, Biotin, Vitamin B12 Supplement), Minerals (ferrous Sulfate, Zinc Oxide, Manganous Oxide, Copper Sulfate, Calcium Iodate, Sodium Selenite), Added Color, Bha (used As A Preservative).",
+          "price": 14.48,
+          "discount": 0,
+          "stock": "stockin",
+          "images": [
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-7.webp",
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-8.webp",
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-9.webp",
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-10.webp"
+          ]
+        },
+				{
+          "id": "treats-ht0g2noo-5",
+          "flavor": "Beef & Filet Mignon",
+          "type": null,
+          "size": "5.6 Ounce",
+          "ingredients": "Beef, Chicken, Soy Grits, Sugar, Corn Starch, Filet Mignon, Dicalcium Phosphate, Salt, Rice Flour, Propylene Glycol, Natural Smoke Flavor, Guar Gum, Lactic Acid, Garlic Powder, Potassium Sorbate (Used as a Preservative), Vitamins (Vitamin E Supplement, Vitamin A Supplement, Niacin Supplement, D-Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Thiamine Mononitrate, Vitamin D3 Supplement, Folic Acid, Biotin, Vitamin B12 Supplement), Minerals (Ferrous Sulfate, Zinc Oxide, Manganous Oxide, Copper Sulfate, Calcium Iodate, Sodium Selenite), Red 40, Sodium Nitrite (for Color Retention), Yellow 5, BHA (Used as a Preservative), Blue 2.",
+          "price": 3.88,
+          "discount": 0,
+          "stock": "stockin",
+          "images": [
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-11.webp",
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-12.webp",
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-13.webp",
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-14.webp"
+          ]
+        },
+				{
+          "id": "treats-ht0g2noo-6",
+          "flavor": "Beef & Filet Mignon",
+          "type": null,
+          "size": "25 Ounce",
+          "ingredients": "Beef, Chicken, Soy Grits, Sugar, Corn Starch, Filet Mignon, Dicalcium Phosphate, Salt, Rice Flour, Propylene Glycol, Natural Smoke Flavor, Guar Gum, Lactic Acid, Garlic Powder, Potassium Sorbate (Used as a Preservative), Vitamins (Vitamin E Supplement, Vitamin A Supplement, Niacin Supplement, D-Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Thiamine Mononitrate, Vitamin D3 Supplement, Folic Acid, Biotin, Vitamin B12 Supplement), Minerals (Ferrous Sulfate, Zinc Oxide, Manganous Oxide, Copper Sulfate, Calcium Iodate, Sodium Selenite), Red 40, Sodium Nitrite (for Color Retention), Yellow 5, BHA (Used as a Preservative), Blue 2.",
+          "price": 15.22,
+          "discount": 0,
+          "stock": "stockin",
+          "images": [
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-15.webp",
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-16.webp",
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-13.webp",
+            "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-14.webp"
+          ]
+        }
+      ]
+    }
+  ]
+}

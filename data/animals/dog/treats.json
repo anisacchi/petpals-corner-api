@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "id": "treats-ht0g2noo",
+      "name": "Soft & Chewy",
+      "brand": "Milk Bone",
+      "animal": "Dog",
+      "subcategory": null,
+      "rating": {
+        "value": 4.7,
+        "reviews": 48229
+      },
+      "label": "best-seller",
+      "cover": "https://anisacchi.github.io/petpals-corner-api/images/treats/treats-ht0g2noo/treats-ht0g2noo-0.webp"
+    }
+  ]
+}
