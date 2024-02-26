@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "id": "health-AUaJeylV",
+      "name": "Allergy Aid for Dogs 160 Chews 12 oz - Relieves Itchy Skin, Healthy Coat, Safe Natural Ingredients, Antioxidant Immunity Booster with Omega3 & Turmeric",
+      "brand": "Obille",
+      "animal": "Dog",
+      "subcategory": "Allergy",
+      "rating": {
+        "value": 3.9,
+        "reviews": 128
+      },
+      "label": null,
+      "cover": "https://anisacchi.github.io/petpals-corner-api/images/health/health-AUaJeylV/health-AUaJeylV-1.webp"
+    }
+  ]
+}

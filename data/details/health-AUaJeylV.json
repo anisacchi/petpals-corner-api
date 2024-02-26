@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "name": "Allergy Aid for Dogs 160 Chews 12 oz - Relieves Itchy Skin, Healthy Coat, Safe Natural Ingredients, Antioxidant Immunity Booster with Omega3 & Turmeric",
+      "brand": "Obille",
+      "animal": "Dog",
+      "subcategory": "Allergy",
+      "age": "From 12 weeks (3 month)",
+      "description": "NEW - The product was updated from 6.9 to 12oz (160 chews) per jar for the same price. The taste has become more saturated. Probiotic 6 Blend L - Plantarum added. SOOTHES ITCHY SKIN TO STOP SCRATCHING - Goes to work fast to naturally relieve itching caused by common dog allergies. BEAUTIFUL HEALTHY COAT - Filled with enriching natural nutrients to make a more attractive coat at any age. Contains essential fatty acids to keep skin moisturized and smooth. STRONGER IMMUNITY TO HEAL FASTER - Contains Salmon Oil and natural Turmeric to help reduce allergy causing histamines in the body. Adds potent antioxidants to reduce inflammation and slow aging. Works to improve respiratory health for better breathing, stronger heart, and longer active life. RICH IN HERBAL FAVORITES - Formulated with fine natural ingredients with no GMOs. Includes Omega 3 and Probiotic 6 Blend L. These nutrients are often used by humans for fast, thrilling results without relying on expensive pharmaceuticals. Give your dog the same smart support. EXCELLENT TASTE - Delicious bacon chews are easy for dogs to take.",
+      "spesific_uses": "",
+      "rating": {
+        "value": 3.9,
+        "reviews": 128
+      },
+      "variants": [
+        {
+          "id": "health-AUaJeylV-1",
+          "flavor": null,
+          "type": null,
+          "size": null,
+          "ingredients": "Omega-3 Fatty Acids (Fish Oil), Turmeric Root, Fennel Seed Meal, Apple Cider Vinegar, Licorice Root, Valerian Root",
+          "price": 22.98,
+          "discount": 0,
+          "stock": "stockin",
+          "images": [
+            "https://anisacchi.github.io/petpals-corner-api/images/health/health-AUaJeylV/health-AUaJeylV-1.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/health/health-AUaJeylV/health-AUaJeylV-2.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/health/health-AUaJeylV/health-AUaJeylV-3.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/health/health-AUaJeylV/health-AUaJeylV-4.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/health/health-AUaJeylV/health-AUaJeylV-5.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/health/health-AUaJeylV/health-AUaJeylV-6.webp"
+          ]
+        }
+      ]
+    }
+  ]
+}
