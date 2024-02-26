@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "id": "toy-peQmQUzO",
+      "name": "Ultra Ball Dog Toy",
+      "brand": "Chuckit!",
+      "animal": "Dog",
+      "subcategory": null,
+      "rating": {
+        "value": 4.8,
+        "reviews": 172234
+      },
+      "label": "best-seller",
+      "cover": "https://anisacchi.github.io/petpals-corner-api/images/toys/toy-peQmQUzO/toy-peQmQUzO-1.webp"
+    }
+  ]
+}

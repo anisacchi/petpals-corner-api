@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "name": "Ultra Ball Dog Toy",
+      "brand": "Chuckit!",
+      "animal": "Dog",
+      "subcategory": null,
+      "age": "All Life Stages",
+      "description": "Super High Bounce: Better than standard tennis balls, the Ultra Ball is made of durable rubber yielding an ultra bouncy, exciting fetch experience on land or on water thanks to lightweight, bouyant design. Compatible with size Medium Chuckit Launchers. Tough and Durable: This rugged dog fetch toy has a textured surface and a thick rubber core that can stand up to rough play yet is soft on dog's mouths. Not intended as a pure chew toy, always supervise your dog when playing with this toy Sizing matters: Size medium measures 2.5 inch in diameter and is best suited for dogs weighing 20-60lbs. Dog balls should be small enough for your dog to carry, but large enough that the ball can't completely fit in their mouth. When in doubt, buy a size up. Make Fetch Happen: Chuckit Performance toys are designed with you and your dog in mind; Try our full range of indoor and outdoor interactive dog toys including tumblers, flyers, fetch toys, other balls for dogs and more. ChuckIt Fetch Pet Toys: Chuckit makes indoor and outdoor dog toys that enrich the human-animal bond and helps dogs and puppies stay engaged. Try our full line of ball launchers, puppy toys, flying discs, tennis balls for dogs, dog chew toys, and more",
+      "spesific_uses": null,
+      "rating": {
+        "value": 4.8,
+        "reviews": 172234
+      },
+      "variants": [
+        {
+          "id": "toy-peQmQUzO-1",
+          "flavor": null,
+          "type": null,
+          "size": "Medium (2.5 inch)",
+          "ingredients": null,
+          "price": 7.76,
+          "discount": 10,
+          "stock": "stockin",
+          "images": [
+            "https://anisacchi.github.io/petpals-corner-api/images/toys/toy-peQmQUzO/toy-peQmQUzO-1.webp",
+            "https://anisacchi.github.io/petpals-corner-api/images/toys/toy-peQmQUzO/toy-peQmQUzO-2.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/toys/toy-peQmQUzO/toy-peQmQUzO-3.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/toys/toy-peQmQUzO/toy-peQmQUzO-4.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/toys/toy-peQmQUzO/toy-peQmQUzO-5.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/toys/toy-peQmQUzO/toy-peQmQUzO-6.webp"
+          ]
+        },
+				{
+          "id": "toy-peQmQUzO-2",
+          "flavor": null,
+          "type": null,
+          "size": "Large (3 inch)",
+          "ingredients": null,
+          "price": 8.48,
+          "discount": 0,
+          "stock": "stockin",
+          "images": [
+            "https://anisacchi.github.io/petpals-corner-api/images/toys/toy-peQmQUzO/toy-peQmQUzO-2.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/toys/toy-peQmQUzO/toy-peQmQUzO-3.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/toys/toy-peQmQUzO/toy-peQmQUzO-7.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/toys/toy-peQmQUzO/toy-peQmQUzO-5.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/toys/toy-peQmQUzO/toy-peQmQUzO-6.webp"
+          ]
+        },
+				{
+          "id": "toy-peQmQUzO-3",
+          "flavor": null,
+          "type": null,
+          "size": "XL (3.5 inch)",
+          "ingredients": null,
+          "price": 14.99,
+          "discount": 45,
+          "stock": "stockin",
+          "images": [
+            "https://anisacchi.github.io/petpals-corner-api/images/toys/toy-peQmQUzO/toy-peQmQUzO-2.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/toys/toy-peQmQUzO/toy-peQmQUzO-3.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/toys/toy-peQmQUzO/toy-peQmQUzO-8.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/toys/toy-peQmQUzO/toy-peQmQUzO-5.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/toys/toy-peQmQUzO/toy-peQmQUzO-6.webp"
+          ]
+        },
+				{
+          "id": "toy-peQmQUzO-4",
+          "flavor": null,
+          "type": null,
+          "size": "XXL (4 inch)",
+          "ingredients": null,
+          "price": 18.99,
+          "discount": 35,
+          "stock": "stockin",
+          "images": [
+            "https://anisacchi.github.io/petpals-corner-api/images/toys/toy-peQmQUzO/toy-peQmQUzO-2.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/toys/toy-peQmQUzO/toy-peQmQUzO-3.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/toys/toy-peQmQUzO/toy-peQmQUzO-9.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/toys/toy-peQmQUzO/toy-peQmQUzO-5.webp",
+						"https://anisacchi.github.io/petpals-corner-api/images/toys/toy-peQmQUzO/toy-peQmQUzO-6.webp"
+          ]
+        }
+      ]
+    }
+  ]
+}
